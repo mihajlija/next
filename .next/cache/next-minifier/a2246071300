@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{ALdH:function(n,t,e){\"use strict\";e.r(t);var i=e(\"q1tI\"),o=e.n(i).a.createElement;t.default=function(){return o(\"p\",null,\"This is the CONTACT page.\")}},lqnA:function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/contact\",function(){return e(\"ALdH\")}])}},[[\"lqnA\",1,0]]]);"}

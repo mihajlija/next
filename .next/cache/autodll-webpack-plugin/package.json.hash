@@ -1,0 +1,1 @@
+{"name":"with-prefetching","version":"1.0.0","scripts":{"dev":"next","build":"next build","start":"next start"},"dependencies":{"next":"latest","react":"^16.7.0","react-dom":"^16.7.0"},"author":"","license":"ISC","readme":"ERROR: No README data found!","_id":"with-prefetching@1.0.0"}
